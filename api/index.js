@@ -40,13 +40,11 @@ export default async function handler(req, res) {
       'https://chat.whatsapp.com/E1awsmxrlN08VhBo8z6LCC', // 707
       'https://chat.whatsapp.com/GfIVpqIRib31PtJuplyfxm', // 708
       'https://chat.whatsapp.com/JKCG8Ms1VXi1wDi5gheaBv', // 709
-      'https://chat.whatsapp.com/CwG5TOn5CDOHnT2DxwrHz2', // 710
     ],
     3: [
-      'https://chat.whatsapp.com/DVhMZ6SFBLc3eeTiW8ALBq', // 713
       'https://chat.whatsapp.com/HX8Eh87WZ7h6cwMqnsNQmm', // 714
-      'https://chat.whatsapp.com/J8jqLjlVCwZAJIqNWR7Yr0', // 715
       'https://chat.whatsapp.com/FQH4sVDKle6DRxM8qHTHV5', // 716
+      'https://chat.whatsapp.com/CwG5TOn5CDOHnT2DxwrHz2', // 710
     ],
   };
   // ─────────────────────────────────────────────────────────────
