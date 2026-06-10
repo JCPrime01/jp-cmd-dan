@@ -33,7 +33,6 @@ export default async function handler(req, res) {
       'https://chat.whatsapp.com/E3uhzD0U3jg9JipOWYV5Sw', // 702
       'https://chat.whatsapp.com/Krd0FzZ9GmH2Nq8K9BEfR7', // 703
       'https://chat.whatsapp.com/EAogaedZmUQ5X7C9uFh6V2', // 704
-      'https://chat.whatsapp.com/KtIxWO1CV3E6uXgwX3QrEW', // 705
     ],
     2: [
       'https://chat.whatsapp.com/Bm1AKvgOTyF6FggW6KA4zm', // 706
@@ -45,6 +44,7 @@ export default async function handler(req, res) {
       'https://chat.whatsapp.com/HX8Eh87WZ7h6cwMqnsNQmm', // 714
       'https://chat.whatsapp.com/FQH4sVDKle6DRxM8qHTHV5', // 716
       'https://chat.whatsapp.com/CwG5TOn5CDOHnT2DxwrHz2', // 710
+      'https://chat.whatsapp.com/KtIxWO1CV3E6uXgwX3QrEW', // 705
     ],
   };
   // ─────────────────────────────────────────────────────────────
